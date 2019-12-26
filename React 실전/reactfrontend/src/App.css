@@ -1,0 +1,23 @@
+.PostingForm {
+  padding: 1rem;
+  margin: 1rem;
+
+}
+
+body{
+  background-color: #f5f5f5;
+  margin: auto;
+}
+
+.card{
+  margin: 1rem;
+}
+
+.Inputs{
+  display: flex;
+  flex-direction: column;
+}
+
+h6{
+  margin: 0;
+}
